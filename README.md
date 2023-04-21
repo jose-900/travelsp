@@ -1,2 +1,4 @@
 # travelsp
-App android react native expo 
+App de Compras em São Paulo 
+Apk Android react native
+Dísponivel no Google Play Stor
